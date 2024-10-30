@@ -1,3 +1,3 @@
-# expected
+# out_ptr
 
-std::expected implementation
+std::out_ptr implementation
